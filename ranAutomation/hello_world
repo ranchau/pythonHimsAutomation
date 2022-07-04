@@ -1,0 +1,2 @@
+echo Hello World
+env /Library/Developer/CommandLineTools/usr/bin/python3 -- /Users/rchaudhary/projects/pythonProjects/ranAutomation/ed/edMain.py
